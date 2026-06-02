@@ -1,4 +1,4 @@
-# Motherson CR Management System — Phase 2 Backend
+# Motherson CR Management System
 
 > Node.js + Express REST API backed by Oracle Database.  
 > Provides persistence, JWT authentication, and full CRUD for all CRMS entities.
