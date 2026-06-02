@@ -1,0 +1,1 @@
+{"err":"NJS-533: Advanced Networking Option service negotiation failed. Native Network Encryption and DataIntegrity only supported in node-oracledb thick mode.\nCause: ORA-12660\nHelp: https://docs.oracle.com/error-help/db/ora-12660","level":"error","message":"verifyToken error","timestamp":"2026-05-04T04:22:52.364Z"}

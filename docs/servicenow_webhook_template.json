@@ -1,0 +1,16 @@
+{
+  "_comment": "ServiceNow Business Rule / REST Message body template",
+  "_instruction": "Create a Business Rule on the change_request table in ServiceNow. Set it to trigger After insert/update. Paste this as the REST Message body.",
+  "sys_id":                 "${current.sys_id}",
+  "number":                 "${current.number}",
+  "u_crms_release_number":  "${current.u_crms_release_number}",
+  "state":                  "${current.state}",
+  "approval":               "${current.approval}",
+  "short_description":      "${current.short_description}",
+  "assigned_to":            {
+    "value":         "${current.assigned_to}",
+    "display_value": "${current.assigned_to.getDisplayValue()}"
+  },
+  "close_notes":            "${current.close_notes}",
+  "closed_at":              "${current.closed_at}"
+}

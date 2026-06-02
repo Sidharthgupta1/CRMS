@@ -1,0 +1,6 @@
+{"level":"info","message":"🚀 CRMS server started → http://localhost:3000/api/v1","timestamp":"2026-04-11T07:08:40.708Z"}
+{"level":"info","message":"   Connecting to Oracle DB in background...","timestamp":"2026-04-11T07:08:40.712Z"}
+{"level":"warn","message":"⚠ DB connection attempt 1/20 failed: TCP timeout — Oracle host unreachable on network","timestamp":"2026-04-11T07:09:00.967Z"}
+{"level":"warn","message":"  Retrying in 5s... (server is running, API returns 503 until connected)","timestamp":"2026-04-11T07:09:00.968Z"}
+{"level":"warn","message":"⚠ DB connection attempt 2/20 failed: TCP timeout — Oracle host unreachable on network","timestamp":"2026-04-11T07:09:26.141Z"}
+{"level":"warn","message":"  Retrying in 5s... (server is running, API returns 503 until connected)","timestamp":"2026-04-11T07:09:26.142Z"}
