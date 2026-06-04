@@ -21,9 +21,14 @@
             "hash": "0e763307f760eed2df97326072098d7d796c69b32a97aa104da95f189bcb7e3b"
         },
         {
-            "date": 1780378040799,
+            "date": 1780397672890,
             "name": "logs\\crms-error-2026-06-02.log",
-            "hash": "e5f83d3482c3ebbb8d8b89a89c538c34645f193771f6d3b2f1d7cdd504ce45c9"
+            "hash": "5d0fae459c355d5d1ad33da2d29552509951b754571f9249fbdf340ffb2e3e36"
+        },
+        {
+            "date": 1780562108166,
+            "name": "logs\\crms-error-2026-06-04.log",
+            "hash": "513da7bffbfa2238ed85cd1f9ecbe6f8090e823ea98543c2761dad6b228c5afd"
         }
     ],
     "hashType": "sha256"
