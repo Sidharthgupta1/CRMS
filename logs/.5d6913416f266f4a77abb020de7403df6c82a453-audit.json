@@ -14,6 +14,16 @@
             "date": 1780562108161,
             "name": "logs\\crms-2026-06-04.log",
             "hash": "e5a4a78b818228e538badb22fb7016bd098a591827bb8e26ddb7cc50ddd524ff"
+        },
+        {
+            "date": 1780631367737,
+            "name": "logs\\crms-2026-06-05.log",
+            "hash": "9950be0224ad44492217e84459b3d5254a1c00bdf7e16a9311adad1fb945a345"
+        },
+        {
+            "date": 1780898797098,
+            "name": "logs\\crms-2026-06-08.log",
+            "hash": "5b20ee4f844f6701a6dff0ec2c1b83e3391d40bb279d196516896a4b360a3e7c"
         }
     ],
     "hashType": "sha256"
